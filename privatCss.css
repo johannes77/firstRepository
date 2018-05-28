@@ -1,0 +1,150 @@
+  .jumbotron text-center{
+  	    padding-right: 60px;
+
+  }
+  .navbar-header img{
+
+	height: 30px;
+    width: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-bottom-width: 10px;
+    border-right-width: 10px;
+}
+
+.col-md-2 ul{
+	list-style-type: none;
+	background-color: #949996;
+	height: 1022.67px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.col-md-8{
+	background-color: #aca7d3;
+	height: 1022.67px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.col-md-2{
+	background-color: #949996;
+	height: 1022.67px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.footerr{
+	margin: 30px;
+	background-color: blue;
+}
+.navbar{
+	margin-bottom: 0px; 
+	background-color: #286090;
+	   padding-right: 30px
+} 
+.jumbotron {
+    margin-bottom: 30px;
+    background-color: #286090;
+    padding-right: 25px;padding-top: 100px;padding-left: 25px;padding-bottom: 100px;
+}
+.form{
+    padding-left: 30px;
+}
+.col-md-2 li{
+	padding-top: 30px;
+	color: yellow;
+}
+.col-md-8{
+background: white;
+}
+.navbar-nav li {
+    color: #f2dede;
+}
+.col-md-2 a {
+  color: #d9edf7;
+  text-decoration: none;
+  padding: 14px;
+}
+col-md-6{
+   background: white; 
+}
+.nav{
+	 border-bottom-width: 0px;
+}
+.footer{
+	margin: 0px;
+	background-color: #286090;
+	padding-top: 15px;
+}
+.footer a{
+color: #f2dede
+}
+
+.btn-danger {
+    color: #f5f5f5;
+    background-color: #337ab7;
+    border-color: #d43f3a;
+    }
+    .navbar-default .navbar-nav>li>a {
+    color: #d9edf7;
+}
+a:link {
+    color: #d9edf7; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #d9edf7;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.row {
+    background-color: #949996;
+}
+.carousel-inner{
+    background-color: #d9edf7;
+    margin-left: 26px;
+    margin-right: 15px;
+    width: 970px;
+}
+.h1{
+    
+    padding-left: 100px;
+    color: #101111
+}
+.row {
+background: #d9edf7
+}
+.p{
+    color: #101111
+}
+.logo{
+    padding-top: 30px;
+    width: 150px;
+}
+.aboutH{
+    text-align: center
+}
+.body{
+    background: #286090
+}
+.container-fluid{
+    width: 970px;
+}
+.Sbody{
+    background: #286090
+}
+.ihome{
+    background: #286090
+}
